@@ -18,6 +18,10 @@ Print out the id with the largest GC content percentage and print the percentage
 
 You may use your GC-content code from first-semester's assignment.
 
+## Outline
+
+See my [code outline](https://github.com/PioneerAPCS-21-22/Assignment32/blob/master/Outline/Main.java) if you need some hints.
+
 ### Sample Outputs
 
 ```
